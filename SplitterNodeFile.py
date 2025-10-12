@@ -5,7 +5,7 @@ from AbstractNodeFile import AbstractNode
 from typing import List, Tuple, Optional, Set
 from PointNodeFile import PointNode
 
-from KinkaidDecorators import log_start_stop_method
+from KinkaidDecorators2 import log_start_stop_method
 NUM_POINTS_FOR_MEDIAN = 20
 
 

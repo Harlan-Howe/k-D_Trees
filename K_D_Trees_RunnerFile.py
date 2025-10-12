@@ -1,6 +1,6 @@
 import random
 import logging
-from KinkaidDecorators import log_start_stop_method
+from KinkaidDecorators2 import log_start_stop_method
 
 from SplitterNodeFile import SplitterNode
 from typing import Set, List, Tuple, Optional
